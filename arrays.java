@@ -1,5 +1,3 @@
-
-
 public class arrays {
     public static void main(String args[]){
         String[] coches = {"Volvo","Ford","Mazda","Mercedes-Benz"};
